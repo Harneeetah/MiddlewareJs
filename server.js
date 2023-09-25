@@ -92,6 +92,6 @@ app.get('/hello(.html)?', (req, res, next) => {
     }
 });
 
-app.use(errorHandler)
+app.use(errorHandler);
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
