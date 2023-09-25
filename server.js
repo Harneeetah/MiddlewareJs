@@ -4,7 +4,7 @@ const path = require('path');
 const PORT = process.env.PORT || 3000 ;
 
 //creating a custom middleware for logging
-app.use((req, res, next) =>{
+app.use((req, res, next) => {
     console.log(`${req.method} ${req.path}`);
     next();
 });
@@ -13,10 +13,10 @@ app.use((req, res, next) =>{
 app.use(express.urlencoded({extended : false}));
 
 // built-in middleware for json files
-app.use(express.json);
+app.use(express.json());
 
 //built-in middleware for handling static files
-app.use(express.static(path.join(__dirname, '/public')));
+ app.use(express.static(path.join(__dirname, '/public')));
 
 app.get('^/$|index(.html)?', (req, res) => {
     // using (^/$|)- this ensures the address must have a '/' or end with index.html
