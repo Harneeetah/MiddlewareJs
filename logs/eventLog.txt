@@ -1,0 +1,16 @@
+20230925	21:21:21	3e134c99-475a-4df2-9a41-2c7a039b542a	GET	undefined	/index.html
+20230925	21:21:21	e95fe2e6-4ad9-48a1-a5d9-cd0da7da45bb	GET	undefined	/css/style.css
+20230925	21:25:59	3e9e4a5c-fe50-4727-9845-e796900a2257	GET	undefined	/index.html
+20230925	21:25:59	c7789fe4-e29f-4be7-bbc5-505d527c047d	GET	undefined	/css/style.css
+20230925	21:31:23	9f8f7970-6f25-491e-a2b2-72252204372e	GET	undefined	/
+20230925	21:31:29	4af4cb34-9359-4aaa-88e4-5cd8a7c4041b	GET	undefined	/css/style.css
+20230925	22:54:21	baf0b5fb-3ef7-454b-a9e1-dbe175a8d1c8	GET	undefined	/
+20230925	22:54:47	eb124f23-96da-45d2-8221-b248b9e0f8e9	GET	undefined	/css/style.css
+20230925	22:56:21	ba33aa34-d033-4a37-b673-5b50d91a13ad	GET	undefined	/
+20230925	22:56:21	765b007a-f381-4740-9026-31cc3ba5e3ee	Error: Not allowed by CORS
+20230925	22:56:45	eaa04814-b1d6-4240-83e7-d64ba3bd62ad	GET	undefined	/
+20230925	22:56:45	f9b27f28-43b1-4af6-a037-54ae8c536807	Error: Not allowed by CORS
+20230925	22:56:48	9ce64f50-7033-460e-a9ba-1a4abb5c5ac2	GET	undefined	/
+20230925	22:56:48	4c5886b5-ef47-4944-93fe-d1890cfeec84	Error: Not allowed by CORS
+20230925	22:57:10	89ce573e-a039-4f9c-b78d-f5d0febe18dd	GET	undefined	/
+20230925	22:57:10	bac800bf-bc9a-4bab-b6c0-ddf6d780cb39	GET	undefined	/css/style.css
